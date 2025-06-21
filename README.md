@@ -1,6 +1,6 @@
 # Backend Developer Assignment – Node.js + Express REST API
 
-This project is a RESTful API built with Node.js and Express for the Backend Developer (Node.js) assessment at Future Code Technology. It supports user registration and login (without authentication), and full CRUD operations for a Product model using MongoDB.
+This project is a RESTful API built with Node.js and Express. It supports user registration and login (without authentication), and full CRUD operations for a Product model using MongoDB.
 
 ---
 
@@ -12,7 +12,7 @@ This project is a RESTful API built with Node.js and Express for the Backend Dev
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
 - [Environment Variables](#environment-variables)
-- [Notes](#notes)
+
 
 ---
 
@@ -125,7 +125,3 @@ The server will run on `http://localhost:5000` by default.
 - `PORT` – (optional) Port number (default: 5000)
 
 ---
-
-
-**Thank you for reviewing my submission!**
-
