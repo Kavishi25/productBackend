@@ -126,13 +126,6 @@ The server will run on `http://localhost:5000` by default.
 
 ---
 
-## Notes
-
-- No authentication or authorization middleware is enforced as per assignment instructions.
-- All core logic is implemented as per assignment requirements.
-- For any issues or questions, please contact me.
-
----
 
 **Thank you for reviewing my submission!**
 
