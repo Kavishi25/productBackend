@@ -35,6 +35,22 @@ This project is a RESTful API built with Node.js and Express. It supports user r
 
 ## Folder Structure
 
+backend_assignment/
+│
+├── config/
+│ └── db.js
+├── middleware/
+│ └── auth.js
+├── models/
+│ ├── Product.js
+│ └── User.js
+├── routes/
+│ ├── auth.js
+│ └── products.js
+├── .env
+├── package.json
+├── package-lock.json
+└── server.js
 
 ---
 
